@@ -5,3 +5,4 @@ applications:
   instances: 1
   name: flask-example
   random-route: true
+  #buildpacks: https://github.com/cloudfoundry/python-buildpack.git
